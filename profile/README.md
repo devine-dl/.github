@@ -32,11 +32,11 @@ and configurability.
 
 ### pywidevine
 
-<a href="https://github.com/rlaphoenix/pywidevine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rlaphoenix&repo=pywidevine" alt="pywidevine" align="left">
+<a href="https://github.com/devine-dl/pywidevine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devine-dl&repo=pywidevine" alt="pywidevine" align="left">
 </a>
 
-_**[pywidevine](https://github.com/rlaphoenix/pywidevine)**_ is a pure [Python](https://python.org) implementation of a Content Decryption Module for Google's Widevine DRM.
+_**[pywidevine](https://github.com/devine-dl/pywidevine)**_ is a pure [Python](https://python.org) implementation of a Content Decryption Module for Google's Widevine DRM.
 It supports Generating and Licensing Challenges, Privacy Mode, CENC Decryption, and more!
 Pywidevine is used internally by our own [devine](https://github.com/devine-dl/devine) and has been adopted by 100s of other projects.
 
